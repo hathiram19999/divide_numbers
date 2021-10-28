@@ -5,8 +5,9 @@ using namespace std;
 
 int main()
 {
-  ll a,b;
-  cin>>a>>b;
-  cout<<"Answer comes out to be : "<<(a/b)<<endl;
-  return 0;
+  ll a,b,c,d;
+  cin>>a>>b>>c>>d;
+  cout<<"Answer should be : "<<(c/b)<<endl;
+  
+  return 78956;
 }
